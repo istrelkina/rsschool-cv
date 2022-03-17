@@ -31,4 +31,19 @@ multiply = function (a, b) {
   return a * b;  
 }
 
+## Experience
+* My portfolio website https://strelaweb.ru/
+* Redesign https://strelaweb.ru/100kvadratov/Landing-new.jpg
+* Website with cocktail's recipes https://homebar.website/
+* Freelancers' team website https://istrelkina.github.io/freelancers/dist/
+* Website for buying household appliances https://istrelkina.github.io/skupka/dist/
+* Website about  installation of stretch ceilings https://potolkam.ru/
+
+## Education
+* East Siberia State University of Technology and Management (1996-2001)
+* Front End Web Development Course from Vadim Prokopchuk (2019)
+* Web Design for Beginners (2020)
+
+## English
+Intermediate
 
