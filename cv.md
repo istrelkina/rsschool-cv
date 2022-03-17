@@ -19,3 +19,16 @@ My goal is to become a demanded Front-End Developer.
 
 My advantages: I am a responsible and adaptable person. I love studying, reading and learning new things. There are so many integesting things in our world! 
 
+## Skills
+* Bringing mock-ups to life using HTML, CSS, JQuery
+* Using Gulp + SCSS
+* Building websites and apps that are responsive and usable.
+* Maintaining an organized workflow using a project management tool (like GitHub)
+* Figma, Photoshop
+
+## Code
+multiply = function (a, b) {  
+  return a * b;  
+}
+
+
